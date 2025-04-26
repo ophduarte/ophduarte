@@ -1,16 +1,33 @@
-## Hi there 👋
+# Pedro Henrique Duarte
+---
+## About me:
 
-<!--
-**ophduarte/ophduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🤖 I am a technology enthusiast, passionate about science and innovation. I love art, music and design.
+ 
+ 🔬 I am a Fullstack development student and I am currently seeking opportunities to transition my career. Nowadays, I work as academic researcher in microelectronics field, with an emphasis on development and electrical characterization of biosensor based on CMOS technology. 
 
-Here are some ideas to get you started:
+ 🕵🏻 I believe that combining solid academic knowledge with innovative practices is key to creating impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My degrees:
+
+🎓 I hold a degree as a **Technologist in Industrial Electronics** from the *Faculty of Technology of São Paulo (FATEC-SP)*, Brazil.
+
+🎓 I earned a **Master of Science (MSc)** in Electrical Engineering from *University of Sao Paulo (USP)*, Brazil.
+
+🎓 I am currently pursuing a **Ph.D. in Electrical Engineering** at *University of Sao Paulo (USP)*, Brazil.
+
+## Skills and Technologies (Studying):
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+
+<div>
+<a href="https://github.com/ophduarte">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophduarte&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ophduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/ophduarte/ophduarte/blob/output/github-contribution-grid-snake.svg)
+          
+          
+
